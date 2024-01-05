@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AFc+C8ub5xJQouI+7946JkJWWBeDN22MTRyyWbcRVWgselYsouD83Gp8yHTXbFIBvpQCmhjTiGoFYYwqb88IQ==",
+  "success": true,
+  "projectFilePath": "D:\\GCP\\HelloWafi\\HelloWafi\\HelloWafi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aisab\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
